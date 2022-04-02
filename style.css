@@ -1,0 +1,35 @@
+  body {
+     background: rgb(83,53,249);
+background: linear-gradient(0deg, rgba(83,53,249,1) 14%, rgba(235,235,235,1) 100%);
+  }
+  .roof {
+  	height: 900px;
+  }
+  .about_me {
+    height: 700px;
+    background-color:#6B1AEA;
+  }
+  .skills {
+  	height: 600px;
+  }
+  .Basement {
+    margin-top: 150px;
+    background-color: background: rgb(83,53,249);
+    background: linear-gradient(0deg, rgba(83,53,249,1) 24%, rgba(65,45,247,1) 100%);;
+    border-radius: 20px;
+  }
+  .text-front {
+    font-size: 20px;
+    padding-left: 15px;
+  }
+  .back-tower {
+    background-color:#6347ff;
+    width: 80px;
+    position: relative;
+    border-radius: 35px 35px 0 0;
+  }
+  .back-circle {
+    position: relative;
+    border-radius: 100%;
+    background-color:#6347ff;
+  }
